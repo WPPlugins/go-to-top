@@ -1,0 +1,73 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/go-to-top\n"
+"POT-Creation-Date: 2011-02-13 04:01:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: plugin.php:106
+msgid "Go To Top Administration"
+msgstr ""
+
+#: plugin.php:106 plugin.php:126
+msgid "Go To Top"
+msgstr ""
+
+#: plugin.php:194
+msgid "Changes have been saved"
+msgstr ""
+
+#: plugin.php:200
+msgid "An error has occurred"
+msgstr ""
+
+#: plugin.php:225
+msgid "Go To Top Settings"
+msgstr ""
+
+#: plugin.php:230
+msgid "Text to show"
+msgstr ""
+
+#: plugin.php:234 plugin.php:243 plugin.php:252 plugin.php:267 plugin.php:284
+msgid "Default is"
+msgstr ""
+
+#: plugin.php:239
+msgid "Scroll speed"
+msgstr ""
+
+#: plugin.php:248
+msgid "Start position"
+msgstr ""
+
+#: plugin.php:257
+msgid "Ease"
+msgstr ""
+
+#: plugin.php:272
+msgid "ButtonView"
+msgstr ""
+
+#: plugin.php:284
+msgid "Normal-text"
+msgstr ""
+
+#: plugin.php:291
+msgid "Show only in posts, not all pages"
+msgstr ""
+
+#: plugin.php:299
+msgid "Enable"
+msgstr ""
+
+#: plugin.php:306
+msgid "Save Changes"
+msgstr ""

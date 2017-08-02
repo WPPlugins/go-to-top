@@ -1,0 +1,19 @@
+﻿#gtt_go-to-top a span {
+    display: none;
+}
+#gtt_go-to-top a {
+    background-image: url(../images/black-arrow.png);
+	background-position: left top;
+    width: 18px;
+    height: 19px;
+    display: block;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    cursor:pointer;
+    z-index: 100;
+}
+
+#gtt_go-to-top a:hover{
+    background-position: right top;
+}

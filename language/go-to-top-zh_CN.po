@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: go-to-top\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/go-to-top\n"
+"POT-Creation-Date: 2011-02-13 04:01:48+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: tooling <dengtooling@gmail.com>\n"
+"Language-Team: dengtooling@gmail.com <dengtooling@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.php:106
+msgid "Go To Top Administration"
+msgstr "回到顶部设置"
+
+#: plugin.php:106
+#: plugin.php:126
+msgid "Go To Top"
+msgstr "回到顶部"
+
+#: plugin.php:194
+msgid "Changes have been saved"
+msgstr "更改已保存"
+
+#: plugin.php:200
+msgid "An error has occurred"
+msgstr "发生了一个错误"
+
+#: plugin.php:225
+msgid "Go To Top Settings"
+msgstr "回到顶部设置"
+
+#: plugin.php:230
+msgid "Text to show"
+msgstr "显示文本"
+
+#: plugin.php:234
+#: plugin.php:243
+#: plugin.php:252
+#: plugin.php:267
+#: plugin.php:284
+msgid "Default is"
+msgstr "默认是"
+
+#: plugin.php:239
+msgid "Scroll speed"
+msgstr "滚动速度"
+
+#: plugin.php:248
+msgid "Start position"
+msgstr "起始位置"
+
+#: plugin.php:257
+msgid "Ease"
+msgstr "效果"
+
+#: plugin.php:272
+msgid "ButtonView"
+msgstr "按钮样式"
+
+#: plugin.php:284
+msgid "Normal-text"
+msgstr "普通文本按钮"
+
+#: plugin.php:291
+msgid "Show only in posts, not all pages"
+msgstr "仅在文章页面显示"
+
+#: plugin.php:299
+msgid "Enable"
+msgstr "启用"
+
+#: plugin.php:306
+msgid "Save Changes"
+msgstr "保存"
+

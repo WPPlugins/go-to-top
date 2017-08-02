@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Go To Top TR\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/go-to-top\n"
+"POT-Creation-Date: 2010-06-20 02:20+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Serkan Algur <info@kaisercrazy.com>\n"
+"Language-Team: kaisercrazy <info@kaisercrazy.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: plugin.php:104
+msgid "Go To Top Administration"
+msgstr "Go To Top Yönetim"
+
+#: plugin.php:104
+#: plugin.php:124
+msgid "Go To Top"
+msgstr "Yukarı"
+
+#: plugin.php:187
+msgid "Changes have been saved"
+msgstr "Değişiklikle Kaydedildi"
+
+#: plugin.php:193
+msgid "An error has occurred"
+msgstr "Bir Hata Oluştu"
+
+#: plugin.php:216
+msgid "Go To Top Settings"
+msgstr "Go To Top Ayarları"
+
+#: plugin.php:221
+msgid "Text to show"
+msgstr "Gösterilecek Metin"
+
+#: plugin.php:225
+#: plugin.php:234
+#: plugin.php:243
+#: plugin.php:258
+msgid "Default is"
+msgstr "Varsayılan"
+
+#: plugin.php:230
+msgid "Scroll speed"
+msgstr "Kayma Hızı"
+
+#: plugin.php:239
+msgid "Start position"
+msgstr "Başlangıç Pozisyonu"
+
+#: plugin.php:248
+msgid "Ease"
+msgstr "Ease"
+
+#: plugin.php:265
+msgid "Show only in posts, not all pages"
+msgstr "Sadece yazılarda göster, tüm sayfalarda değil."
+
+#: plugin.php:273
+msgid "Enable"
+msgstr "Aktif"
+
+#: plugin.php:280
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+n.php:234
+#: plugin.php:243
+#: pl
